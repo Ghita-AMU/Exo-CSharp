@@ -1,0 +1,14 @@
+C:\Users\EC\Exos-C#Net\LesBases\obj\Debug\net9.0\LesBases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EC\Exos-C#Net\LesBases\obj\Debug\net9.0\LesBases.AssemblyInfoInputs.cache
+C:\Users\EC\Exos-C#Net\LesBases\obj\Debug\net9.0\LesBases.AssemblyInfo.cs
+C:\Users\EC\Exos-C#Net\LesBases\obj\Debug\net9.0\LesBases.csproj.CoreCompileInputs.cache
+C:\Users\EC\Exos-C#Net\LesBases\bin\Debug\net9.0\LesBases.exe
+C:\Users\EC\Exos-C#Net\LesBases\bin\Debug\net9.0\LesBases.deps.json
+C:\Users\EC\Exos-C#Net\LesBases\bin\Debug\net9.0\LesBases.runtimeconfig.json
+C:\Users\EC\Exos-C#Net\LesBases\bin\Debug\net9.0\LesBases.dll
+C:\Users\EC\Exos-C#Net\LesBases\bin\Debug\net9.0\LesBases.pdb
+C:\Users\EC\Exos-C#Net\LesBases\obj\Debug\net9.0\LesBases.dll
+C:\Users\EC\Exos-C#Net\LesBases\obj\Debug\net9.0\refint\LesBases.dll
+C:\Users\EC\Exos-C#Net\LesBases\obj\Debug\net9.0\LesBases.pdb
+C:\Users\EC\Exos-C#Net\LesBases\obj\Debug\net9.0\LesBases.genruntimeconfig.cache
+C:\Users\EC\Exos-C#Net\LesBases\obj\Debug\net9.0\ref\LesBases.dll
